@@ -1,0 +1,19 @@
+# macOS
+.DS_Store
+
+# Spring Boot
+backend/target/
+backend/*.log
+backend/*.jar
+
+# React
+frontend/node_modules/
+frontend/build/
+
+# IDE
+.idea/
+
+# Environment files
+.env
+backend/.env
+.env
